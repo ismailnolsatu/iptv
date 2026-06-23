@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1,VTV 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV 3
 https://rr1-ateme.tv360.vn/live/eds/155/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4MjI2MTcyNn0.TiC9JijPxL48DeI0ARh9VeNf_l21SeuaBqzEsXiFN6WD9nW-3KvTffJJXs8KVL85G4GQCRhALmQMYf9B-rKCSg&screen=MHN&uid=19680
-#EXTINF:-1,VTV 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/VTV6_logo_2026_final.svg",VTV 6
 https://pop14-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMjY5MTIwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy80NzkvSExTX0NsZWFuX01ITl8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA0ODllMjAzZDkyZDE4ZTkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMzgiLCJzb3VyY2VzIjpbNDk1XX0=.soej8eCa6BYPitN5T-9_dYVqHG4XU1TwRC-eWt3gsOIo34Z3cIiHKuDj0u2eTAZHCNjUWTGq1A9J5JZa5ZIHog==/live/eds/479/HLS_Clean_MHN_2s/index.m3u8?uid=19680
 #EXTINF:-1,TRT 1
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
