@@ -3,13 +3,13 @@
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV 3
 https://pop14-ec2-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMzUyMzI3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xNTUvSExTX0NsZWFuX01ITl8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQ5OWQxZGUxZGZhZTA0NzMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMzciLCJzb3VyY2VzIjpbNDk1XX0=.g8wc60UJL4hshVZYfH24OLSv3F4sXMWVzksx3YPwyteTXjgbAr9x-Whj3x5q09wdnndYfMddx8jb-Sp6yq_GTw==/live/eds/155/HLS_Clean_MHN_2s/index.m3u8?uid=19680
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/VTV6_logo_2026_final.svg",VTV 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/VTV6_logo_2026_final.svg.png",VTV 6
 https://pop14-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMjY5MTIwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy80NzkvSExTX0NsZWFuX01ITl8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA0ODllMjAzZDkyZDE4ZTkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMzgiLCJzb3VyY2VzIjpbNDk1XX0=.soej8eCa6BYPitN5T-9_dYVqHG4XU1TwRC-eWt3gsOIo34Z3cIiHKuDj0u2eTAZHCNjUWTGq1A9J5JZa5ZIHog==/live/eds/479/HLS_Clean_MHN_2s/index.m3u8?uid=19680
 #EXTINF:-1,TRT 1
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,VTV 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV 6
 https://es1-p3-netcdn.tv360.vn/netcdn-live/479/output/1067600-index.m3u8?wmkid=0&uid=19680&timestamp=1782339684&token=442e20e04914d4ad7c5dbd444c4b7705
 #EXTINF:-1,VTV 3
 https://rr1-ateme.tv360.vn/live/eds/155/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4MjI4MDk4MH0.TP2uCgzLEDTlpKcYADxJzGjtoNLGlfdxTApvN3lIlU40qhBEJDDRA1egIJc8C-6Ai9i3bwpTeo-ZqOdUmrG-8w&screen=MHN&uid=19680
-#EXTINF:-1,VTV 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV 6
 https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODIzNjA5NzIsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.aernAbchEVYQnJ3wlU5orDwOZnGS4E9oiI-eM6c1id8&minrate=0&maxrate=5000000&uid=19680
