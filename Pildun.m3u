@@ -3,9 +3,9 @@
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1,TRT 1
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",VTV6
-https://tr-netcdn.tv360.vn/netcdn-live/479/output/index.m3u8?timestamp=1782437304&wmkid=0&token=58ae10b72f7b586b8f42e8a0d52c9376&minrate=0&maxrate=5000000&uid=19680
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3
-https://pop14-ec2-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNDQ4MjIwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xNTUvSExTX0NsZWFuX01ITl8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjE4ZjYwOWUzZGEzMjE5MmYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMzciLCJzb3VyY2VzIjpbNDk1XX0=.s0YhsdNGXKH5vl2RQM1EewYpjcgP-wGT_lBwbVQVvs5sMP1_wiJXYxeFdfrPu9UIUo7Is6gMnJR7ef6cINMthQ==/live/eds/155/HLS_Clean_MHN_2s/index.m3u8?uid=19680
-#EXTINF:-1,VTV2
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/VTV2?file=VTV2_logo_2013_final.svg",VTV2
 https://pop14-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNDU0NjQxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xOTIvSExTX0NsZWFuX01ITl8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRjZWEyZmRhZDQzNjYyZTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMzgiLCJzb3VyY2VzIjpbNDk1XX0=.ZUHeBa9kUgEbglhvA8PXXM51k9ByWPMDb2CmF7v5Dr4bbbfMALJf_rejyPQNWPK5tPZNZjeo2pli--m28QPYzA==/live/eds/192/HLS_Clean_MHN_2s/192-avc1_1000000=10000-mp4a_196800_eng=20000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3
+https://es5-p3-netcdn.tv360.vn/netcdn-live/1552/output/1670000-index.m3u8?wmkid=0&uid=19680&timestamp=1782517134&token=c73f567228233d28b7fcba8da9b90f13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",VTV6
+https://pop14-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNTI0OTk0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy80NzkvSExTX0NsZWFuX01ITl8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNlMzQ3NTFhMzAzZGU0ZTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMzgiLCJzb3VyY2VzIjpbNDk1XX0=.7R7Y3AyXFM9O9t1wv-1DjYRxI2sodad4LMmfBKJ_G8mb0jaIEQ5sv0RUV7Xml04WkiI4-KdAUYAsdg5mkLL7yQ==/live/eds/479/HLS_Clean_MHN_2s/index.m3u8?uid=19680
